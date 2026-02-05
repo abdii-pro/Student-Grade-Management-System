@@ -17,7 +17,7 @@ A C++ console application that manages student records, calculates grades, and h
 ### Compilation
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone https://github.com/abdii-pro/Student-Grade-Management-System/
     ```
 2.  Compile the source code:
     ```bash
