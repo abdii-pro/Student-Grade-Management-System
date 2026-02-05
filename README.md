@@ -33,4 +33,3 @@ This project uses `system("cls")` and `system("pause")`, which are Windows-speci
 
 ## Project Structure
 * `main.cpp`: Contains the source code and logic.
-* `output.txt`: Generated report (created after running the program).
